@@ -1,1 +1,1 @@
-# Data-Analyst-Projects
+Created a dynamic Excel dashboard of the Vrinda Store dataset to answer some questions about Sales performance per month,Purchase based on gender,channel performance and demographic preferences with the help of visuals and slicers to filter data. The goal of this project was to generate insights and recommendations for optimizing marketing efforts, improving customer satisfaction,channel optimization and increasing sales revenue.
